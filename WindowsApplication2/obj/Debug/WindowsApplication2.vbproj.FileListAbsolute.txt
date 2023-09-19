@@ -1,0 +1,15 @@
+c:\users\adams\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\AS AutoPart.exe.config
+c:\users\adams\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\AS AutoPart.exe
+c:\users\adams\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\AS AutoPart.pdb
+c:\users\adams\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\AS AutoPart.xml
+c:\users\adams\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+c:\users\adams\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.AboutUs.resources
+c:\users\adams\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.AS_AutoPart.resources
+c:\users\adams\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+c:\users\adams\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form2.resources
+c:\users\adams\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form3.resources
+c:\users\adams\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+c:\users\adams\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+c:\users\adams\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\AS AutoPart.exe
+c:\users\adams\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\AS AutoPart.xml
+c:\users\adams\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\AS AutoPart.pdb
